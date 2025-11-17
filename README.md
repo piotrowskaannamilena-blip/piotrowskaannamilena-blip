@@ -9,10 +9,6 @@ My mottos are:
 
 "It's working, I don't know why, when it doesn't work I will find out why"
 
-<!--
-**piotrowskaannamilena-blip/piotrowskaannamilena-blip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 - 👥 I’m currently working on ... 🗫 Full Stack Web Developer Skills Bootcamp 
 - 🗨 I’m currently learning ... Java, React 
 - 👁 I’m looking to collaborate on ...
@@ -21,5 +17,11 @@ My mottos are:
 - 🖄  How to reach me: ...
 - 🕭 Pronouns: ...
 - 🕶 Fun fact: ...
+- 
+<!--
+**piotrowskaannamilena-blip/piotrowskaannamilena-blip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+
 -->
 
