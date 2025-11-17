@@ -1,6 +1,6 @@
 ## Hi there
 
-https://gifdb.com/gif/sniff-498-x-498-gif-h644vx8rh8itj1zr.html?embed=true
+![](https://github.com/piotrowskaannamilena-blip/piotrowskaannamilena-blip/blob/main/GIF.gif)
 
 My mottos are:
 "One Day It Will Just Click"
@@ -17,7 +17,10 @@ My mottos are:
 - 🖄  How to reach me: ...
 - 🕭 Pronouns: ...
 - 🕶 Fun fact: ...
-- 
+
+
+![](https://github.com/piotrowskaannamilena-blip/piotrowskaannamilena-blip/blob/main/the-simpsons-homer.gif)
+
 <!--
 **piotrowskaannamilena-blip/piotrowskaannamilena-blip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
